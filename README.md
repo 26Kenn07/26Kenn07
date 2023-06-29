@@ -4,7 +4,7 @@ Hi, I'm Kirtan Matalia<br>I'm pursuing my B.Tech in Computer Engineering<br>Talk
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/l_mk_07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kirtan-Matalia) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kirtan07) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kirtanmatalia26)
+[![Kaggle](https://img.shields.io/badge/Kaggle-12100E?logo=medium&logoColor=white)](https://www.kaggle.com/kirtanmatalia26)
  
 
 # 💻 Tech Stack:
